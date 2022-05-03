@@ -1,0 +1,43 @@
+{
+  "noticias": [
+    {
+      "imagem": "",
+      "id": 1,
+      "titulo": "Hoje está frio",
+      "descrição": "Hoje em São Paulo está muito frio"
+    },
+    {
+      "imagem": "",
+      "id": 2,
+      "titulo": "Hoje está frio",
+      "descrição": "Hoje em São Paulo está muito frio"
+    },
+    {
+      "imagem": "",
+      "id": 3,
+      "titulo": "Hoje está frio",
+      "descrição": "Hoje em São Paulo está muito frio"
+    },
+    {
+      "imagem": "",
+      "id": 4,
+      "titulo": "Hoje está frio",
+      "descrição": "Hoje em São Paulo está muito frio"
+    },
+    {
+      "imagem": "",
+      "id": 5,
+      "titulo": "Hoje está frio",
+      "descrição": "Hoje em São Paulo está muito frio"
+    },
+    {
+      "imagem": "",
+      "id": 6,
+      "titulo": "Hoje está frio",
+      "descrição": "Hoje em São Paulo está muito frio"
+    },
+    {
+      "id": 7
+    }
+  ]
+}
